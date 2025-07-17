@@ -32,5 +32,23 @@ Strength categories:
 📸 Preview
 ![image alt](https://github.com/alwaysbeinghemant/password-checker-system/blob/73b2eceec355fc3c4df5ec6036c83a02b3b30349/Screenshot%202025-07-17%20201305.png)
 
+💡 How to Use
+1.Clone the repository:
+
+
+git clone https://github.com/alwaysbeinghemant/password-strength-checker.git
+
+2.Open index.html in any modern web browser.
+
+3.Start typing a password to see the live strength analysis.
+
+🛠 Technologies Used
+
+* HTML5
+
+* CSS3 (with animations and gradients)
+
+* Vanilla JavaScript (no libraries/frameworks)
+
 
 
