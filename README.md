@@ -30,6 +30,7 @@ Strength categories:
 * Special character
 
 📸 Preview
+![image alt](https://github.com/alwaysbeinghemant/password-checker-system/blob/73b2eceec355fc3c4df5ec6036c83a02b3b30349/Screenshot%202025-07-17%20201305.png)
 
 
 
